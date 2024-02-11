@@ -40,6 +40,17 @@
     src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-BoldItalic.ttf);
 }
 
+:root {
+    --font-size: 40px;
+    --type-tester: 'Whereas a common understanding of these rights and freedoms is. 1234567890';
+}
+
 body {
     font-family: "Google Sans Text", "Helvetica Neue", sans-serif;
+}
+
+.typography:after {
+    font-size: var(--font-size);
+    content: var(--type-tester);
+    line-height: 1;
 }
