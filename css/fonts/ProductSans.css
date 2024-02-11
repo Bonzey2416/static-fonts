@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 100;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Thin.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 100;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-ThinItalic.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Light.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-LightItalic.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Regular.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Italic.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 500;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Medium.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 500;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-MediumItalic.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Bold.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-BoldItalic.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 900;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-Black.woff);
+}
+
+@font-face {
+    font-family: "Product Sans";
+    font-weight: 900;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Product%20Sans/ProductSans-BlackItalic.woff);
+}
