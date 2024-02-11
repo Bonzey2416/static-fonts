@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-Italic.ttf);
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: 500;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: 500;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Google Sans Display";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Display/GoogleSansDisplay-BoldItalic.ttf);
+}
