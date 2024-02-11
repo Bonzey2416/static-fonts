@@ -1,0 +1,111 @@
+@font-face {
+    font-family: "Gotham";
+    font-weight: 100;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Thin.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 100;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-ThinItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 200;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-XLight.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 200;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-XLightItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Light.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-LightItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Book.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-BookItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 500;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Medium.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 500;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-MediumItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Bold.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-BoldItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 800;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Black.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 800;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-BlackItalic.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 900;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-Ultra.woff);
+}
+
+@font-face {
+    font-family: "Gotham";
+    font-weight: 900;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Gotham/Gotham-UltraItalic.woff);
+}
