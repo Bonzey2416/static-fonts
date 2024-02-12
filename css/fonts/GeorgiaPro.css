@@ -1,0 +1,231 @@
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Light.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-LightItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Regular.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Italic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Semibold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-SemiboldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Bold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-BoldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-Black.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-BlackItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 300;
+    font-stretch: condensed;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondLight.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 300;
+    font-stretch: condensed;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondLightItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondRegular.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 600;
+    font-stretch: condensed;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondSemibold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 600;
+    font-stretch: condensed;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondSemiboldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBoldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 900;
+    font-stretch: condensed;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBlack.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro";
+    font-weight: 900;
+    font-stretch: condensed;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBlackItalic.woff);
+}
+
+/* For legacy browsers (IE 9-11, Chrome 5-47, Firefox 3.6-21, Opera 11.1-34) */
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondLight.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondLightItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondRegular.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 600;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondSemibold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 600;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondSemiboldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBold.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBoldItalic.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 900;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBlack.woff);
+}
+
+@font-face {
+    font-family: "Georgia Pro Condensed";
+    font-weight: 900;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Georgia%20Pro/GeorgiaPro-CondBlackItalic.woff);
+}
