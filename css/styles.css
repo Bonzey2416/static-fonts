@@ -1,56 +1,61 @@
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: normal;
-    font-style: normal;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Regular.ttf);
+  font-family: "Google Sans Text";
+  font-weight: normal;
+  font-style: normal;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Regular.ttf);
 }
 
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: normal;
-    font-style: italic;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Italic.ttf);
+  font-family: "Google Sans Text";
+  font-weight: normal;
+  font-style: italic;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Italic.ttf);
 }
 
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: 500;
-    font-style: normal;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Medium.ttf);
+  font-family: "Google Sans Text";
+  font-weight: 500;
+  font-style: normal;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Medium.ttf);
 }
 
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: 500;
-    font-style: italic;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-MediumItalic.ttf);
+  font-family: "Google Sans Text";
+  font-weight: 500;
+  font-style: italic;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-MediumItalic.ttf);
 }
 
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: bold;
-    font-style: normal;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Bold.ttf);
+  font-family: "Google Sans Text";
+  font-weight: bold;
+  font-style: normal;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-Bold.ttf);
 }
 
 @font-face {
-    font-family: "Google Sans Text";
-    font-weight: bold;
-    font-style: italic;
-    src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-BoldItalic.ttf);
+  font-family: "Google Sans Text";
+  font-weight: bold;
+  font-style: italic;
+  src: url(https://bonzey2416.github.io/static-fonts/fonts/Google%20Sans%20Text/GoogleSansText-BoldItalic.ttf);
 }
 
 :root {
-    --font-size: 40px;
-    --type-tester: 'Whereas a common understanding of these rights and freedoms is. 1234567890';
+  --font-size: 40px;
+  --type-tester: "Whereas a common understanding of these rights and freedoms is. 1234567890";
 }
 
 body {
-    font-family: "Google Sans Text", "Helvetica Neue", sans-serif;
+  font-family: "Google Sans Text", "Helvetica Neue", sans-serif;
 }
 
 .typography:after {
-    font-size: var(--font-size);
-    content: var(--type-tester);
-    line-height: 1;
+  font-size: var(--font-size);
+  content: var(--type-tester);
+  line-height: 1;
+}
+
+.dropdown-toggle:hover + .dropdown-menu,
+.dropdown-menu:hover {
+  display: block !important;
 }
