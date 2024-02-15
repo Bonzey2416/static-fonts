@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Calibri";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Verdana%20Pro/Calibri-Light.woff);
+}
+
+@font-face {
+    font-family: "Calibri";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Calibri/Calibri-LightItalic.woff);
+}
+
+@font-face {
+    font-family: "Calibri";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Calibri/Calibri.woff);
+}
+
+@font-face {
+    font-family: "Calibri";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Calibri/Calibri-Italic.woff);
+}
+
+@font-face {
+    font-family: "Calibri";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Calibri/Calibri-Bold.woff);
+}
+
+@font-face {
+    font-family: "Calibri";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Calibri/Calibri-BoldItalic.woff);
+}
