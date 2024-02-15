@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Cambria";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Cambria/Cambria.woff);
+}
+
+@font-face {
+    font-family: "Cambria";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Cambria/Cambria-Italic.woff);
+}
+
+@font-face {
+    font-family: "Cambria";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Cambria/Cambria-Bold.woff);
+}
+
+@font-face {
+    font-family: "Cambria";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Cambria/Cambria-BoldItalic.woff);
+}
