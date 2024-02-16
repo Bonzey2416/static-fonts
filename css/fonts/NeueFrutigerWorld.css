@@ -1,0 +1,139 @@
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 100;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-UltLt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 100;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-UltLtIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 200;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Thin.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 200;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-ThinIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Light.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-LightIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 350;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Book.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 350;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-BookIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 400;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Regular.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 400;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-It.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 500;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Medium.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 500;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-MediumIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 700;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Bold.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 700;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-BoldIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 800;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Heavy.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 800;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-HeavyIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 900;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-Black.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 900;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-BlackIt.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 1000;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-XtraBlk.woff);
+}
+
+@font-face {
+    font-family: "Neue Frutiger World";
+    font-weight: 1000;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/Neue%20Frutiger%20World/NeueFrutigerWorld-XtraBlkIt.woff);
+}
