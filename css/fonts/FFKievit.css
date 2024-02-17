@@ -1,0 +1,125 @@
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 100;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Thin.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 100;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-ThinItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 200;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-ExtraLight.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 200;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-ExtraLightItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 300;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Light.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 300;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-LightItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: normal;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Regular.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: normal;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Italic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 500;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Book.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 500;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-BookItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 600;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Medium.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 600;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-MediumItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: bold;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Bold.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: bold;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-BoldItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 800;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-ExtraBold.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 800;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-ExtraBoldItalic.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 900;
+    font-style: normal;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-Black.woff);
+}
+
+@font-face {
+    font-family: "FF Kievit";
+    font-weight: 900;
+    font-style: italic;
+    src: url(https://bonzey2416.github.io/static-fonts/fonts/FF%20Kievit/KievitOT-BlackItalic.woff);
+}
